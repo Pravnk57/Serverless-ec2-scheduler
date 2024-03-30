@@ -15,3 +15,48 @@ In some companies, there is no need to run their EC2 instances 24/7; they requir
    
 ![image (30)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/7fbb4f97-0954-43a2-bdb8-9c1a0e286393)
 
+### Step 2 :
+### Creating the Policy :
+
+
+1. Navigate to the IAM Console.
+2. Click on "Policies" and then Click on "Create policy"
+![image (31)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a0bf1583-eac9-42c0-b511-a2ae65f96b37)
+
+3. Select services as EC2.
+4. And Actions are DescribeInstances , StartInstances.
+![image (32)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/2acdac48-3d04-4045-a33a-eae1e98ed38d)
+
+![image (33)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/55a747c8-d304-47b4-b869-404d900748bf)
+![image (34)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/58705f12-4cfd-41c6-96a5-bf20664a9f4a)
+![image (35)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/0e7b2636-3b40-4045-ab48-d019e25d87ab)
+![image (36)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/812ff10c-7c31-4483-bad9-26015298dfa3)
+![image (37)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/f1889cb9-1c92-4d22-90e5-cd148428c746)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
