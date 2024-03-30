@@ -33,8 +33,20 @@ In some companies, there is no need to run their EC2 instances 24/7; they requir
 ![image (36)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/812ff10c-7c31-4483-bad9-26015298dfa3)
 ![image (37)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/f1889cb9-1c92-4d22-90e5-cd148428c746)
 
+5. Now we have created a policy for starting instances. We also need to create a policy for stopping the instances. This is because we are going to create two Lambda functions: one for starting and one for stopping the instances. Each function will have its own role, and we will attach these two policies to their respective roles.<br>
+6. Now  we are going to repeat the same steps for Creating Stopping Policy also.<br>
+7. Everything is same , Except Actions because we are going to stop the instance.<br>
+8. The Actions are DescribeInstances , StopInstances .<br>
+9. Keep your Plolicy name as "stop-ec2-policy".
 
+## Step 3 :
+## Creating the Lambda functions :
 
+1. Navigate to the lambda Console.
+2. Follow the Outlined steps below.
+
+![image (38)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/b0af78fe-1872-4394-bd06-8e3008639a8c)
+![image (39)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/24ba37f7-ac09-46b2-9459-7dbb798e59b4)
 
 
 
