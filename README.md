@@ -60,9 +60,18 @@ In some companies, there is no need to run their EC2 instances 24/7; they requir
 
 ![image (50)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/98c52735-725b-4a16-ae76-f66dc37e248b)
 
-Now again , go to the Lambda console and then test the code.
+Now again , go to the Lambda console and then test the code.But before testing the code we must stop our instances to test the start function code.
 
-![image (51)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/1ee159c8-979d-45e3-914c-bc8151b7962e)
+![image (52)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/26fec017-6811-4caf-8407-24fcd293ea76)
+
+3. Now we Created a lambda function for Starting Instance.
+4. We have to Repeat the same steps again to Create a Lambda function for Stopping Instance , Keep your lambda function name as "stop-function".
+5. The only changes we have to make are to replace the default code with the 'stop-function-code.py' code and attach the policy we created for stopping instances to the role of this Lambda function.
+
+![image (55)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/b61b947e-fd54-4b98-a389-29a165616d8e)
+
+6. As demonstrated above, when I test my Python code, it runs successfully and stops the instance.
+7. Now, we are ready to proceed and create schedules for this functions.
 
 
 
