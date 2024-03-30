@@ -52,12 +52,17 @@ In some companies, there is no need to run their EC2 instances 24/7; they requir
 
 ![image (45)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/ad2ce33c-a9fe-4a51-a113-135d6c778d66)
 
-![image (46)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/906dfcb8-c8b0-4afd-a6f2-85fa7c1809f5)
+![image (47)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/8cd2f8f6-88e0-434a-9e4e-e7c3fce6fcfd)
 
+![image (48)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/ef13b854-ad59-471f-8771-02967c6ea401)
 
+![image (49)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/1a4dc1ec-1c01-4639-917a-a8395f3a545b)
 
+![image (50)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/98c52735-725b-4a16-ae76-f66dc37e248b)
 
+Now again , go to the Lambda console and then test the code.
 
+![image (51)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/1ee159c8-979d-45e3-914c-bc8151b7962e)
 
 
 
