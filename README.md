@@ -117,8 +117,6 @@ Now again , go to the Lambda console and then test the code.But before testing t
 
 9. Now, we have successfully created two schedules: one to start the instance every day at 7:00 AM and the other to stop the instance every day at 5:00 PM.
 
-9. Now, we have successfully created two schedules: one to start the instance every day at 8:00 AM and the other to stop the instance every day at 5:00 PM.
-
 ![image (69)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/01d09200-1af4-47e9-80a6-f9e7b4263de7)
 
 ### Step 6 :
@@ -158,6 +156,8 @@ Now again , go to the Lambda console and then test the code.But before testing t
 ![image (84)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/e0692699-baaf-4c7c-ba5b-5a27f3a80839)
 
 ![image (86)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/268438cf-c199-4f52-97a8-c97e7a5d2347)
+
+![image (88)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/becd7097-d8e0-4bb8-8674-e1530e7f5d6c)
 
 
 
