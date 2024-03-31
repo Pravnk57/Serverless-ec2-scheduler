@@ -159,8 +159,15 @@ Now again , go to the Lambda console and then test the code.But before testing t
 
 ![image (88)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/becd7097-d8e0-4bb8-8674-e1530e7f5d6c)
 
+3. Now the Cloudwatch rule ha created.
 
+![image (89)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/9841aac3-bc82-4131-b645-2513ae50cec7)
 
+4. So now wait upto 5:00 PM to trigger the stop function and check your email for the notification.
+ 
+![image (90)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/066bedff-2538-43a6-9616-22e4387edcef)
+
+![image (92)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/737aa2c9-75f6-432d-ba93-b2db7875863d)
 
 
 
