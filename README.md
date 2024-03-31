@@ -138,12 +138,26 @@ Now again , go to the Lambda console and then test the code.But before testing t
 ![31 03 2024_13 11 51_REC](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/5017bd4e-dc40-4e02-89fe-26e9f5536edb)
 
 
+### Step 7 :
+### Create the rule Using Cloud Watch :
 
+1. Navigate to the Cloud Watch Console.
+2. Follow the Outlined Steps below.
 
+![image (57)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/950f3fe9-a194-4fa7-b664-f488aec51480)
 
+![image (78)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/9d7e55d9-353a-42f8-abfb-890cb37598b5)
 
+![image (79)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/633d8e23-8491-4c6f-8b30-d64ee6bec397)
+![image (80)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/06b659df-d8bc-4b83-b2f8-d0a8422c1f0e)
 
+![image (81)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/c6315583-2451-4871-a61f-57e87a553b43)
 
+![image (82)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/9a4e9f9c-0f49-4c39-b747-da38121fefbf)
+
+![image (84)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/e0692699-baaf-4c7c-ba5b-5a27f3a80839)
+
+![image (86)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/268438cf-c199-4f52-97a8-c97e7a5d2347)
 
 
 
