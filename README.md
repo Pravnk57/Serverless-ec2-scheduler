@@ -105,7 +105,7 @@ Now again , go to the Lambda console and then test the code.But before testing t
 
 3. We have now created a schedule for starting the instance every day at 7:00 AM.<br>
 4. Next, we need to create a schedule for stopping instances.<br>
-5. To create the schedule for stopping instances, follow the same steps as for starting instance scheduling with a few changes, Keep your rule name as "stop-ec2-rule".<br>
+5. To create the schedule for stopping instances, follow the same steps as for starting instance scheduling with a few changes, Keep your rule name as "stop-rule".<br>
 6. The changes include modifying the scheduled time and selecting the appropriate scheduling function.<br>
 7. We need to change the schedule time to 17:00 because it will stop the Lambda function at 17:00 IST (5:00 PM).
 
