@@ -73,12 +73,25 @@ Now again , go to the Lambda console and then test the code.But before testing t
 6. As demonstrated above, when I test my Python code, it runs successfully and stops the instance.
 7. Now, we are ready to proceed and create schedules for this functions.
 
+### Step 5 :
+### Creating the Schedules Using Cloud Watch :
 
+1. Navigate to the Cloud Watch Console.
+2. Follow the Outlined Steps below.
 
+![image (57)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/9480750a-5865-4dc3-aac8-406c4bb81557)
 
+![image (58)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a8550035-df5b-4347-b5d7-a59dd8332ac9)
 
+![image (59)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a7974935-2ce9-4466-b8fe-4c223c3c3ab0)
 
+![image (60)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/c0c48bf7-6249-48cd-a14b-4290d7065e34)
 
+![image (61)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a905991b-c399-4217-ba58-bfa2edf6c572)
+
+![image (62)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/f6669acd-b0b2-4a11-87aa-d206670e425f)
+
+![image (63)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/ad9ababe-cfaa-439e-aec5-39ba3b11e7da)
 
 
 
