@@ -93,6 +93,51 @@ Now again , go to the Lambda console and then test the code.But before testing t
 
 ![image (63)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/ad9ababe-cfaa-439e-aec5-39ba3b11e7da)
 
+![image (64)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/bd40e4aa-ff13-4f9e-a578-2f83f1fe23f0)
+
+![image (65)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/ecb7eb16-30a7-4c55-86f7-e4be65e52cf3)
+
+![image (66)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/1d937b8b-ff73-4ef3-8e23-d3839a5e6529)
+
+![image (67)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/83fcaf7d-6df7-4ca0-a7bb-513b34905484)
+
+![image (68)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a7dbbcd5-6ded-4d77-8150-d93fd5a01603)
+
+3. We have now created a schedule for starting the instance every day at 7:00 AM.<br>
+4. Next, we need to create a schedule for stopping instances.<br>
+5. To create the schedule for stopping instances, follow the same steps as for starting instance scheduling with a few changes, Keep your rule name as "stop-ec2-rule".<br>
+6. The changes include modifying the scheduled time and selecting the appropriate scheduling function.<br>
+7. We need to change the schedule time to 17:00 because it will stop the Lambda function at 17:00 IST (5:00 PM).
+
+![31 03 2024_12 23 23_REC](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/94cdba34-8667-495e-ae6c-04be4fadda6d)
+
+8. We have to Change the Function as stop-function.
+   
+![31 03 2024_12 23 00_REC](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/10509648-be8d-4e3e-aeea-7e0170ddc44e)
+
+9. Now, we have successfully created two schedules: one to start the instance every day at 7:00 AM and the other to stop the instance every day at 5:00 PM.
+
+10. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
