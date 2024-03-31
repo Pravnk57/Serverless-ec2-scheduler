@@ -130,8 +130,12 @@ Now again , go to the Lambda console and then test the code.But before testing t
 ![image (70)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a5112dd5-e498-4df9-9524-6141e4eb3997)
 
 ![image (72)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/cee57ece-dbaf-4ecd-8fed-4632c1cf0386)
+![image (74)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/64fb6aa8-a9ff-4f64-85b8-30db483889ad)
 
+![image (76)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/383af15a-35aa-4bde-aab2-3de3f97b546c)
 
+![image (77)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/e57d4b18-66b6-44eb-8bb0-9a22a2b32c98)
+![31 03 2024_13 11 51_REC](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/5017bd4e-dc40-4e02-89fe-26e9f5536edb)
 
 
 
