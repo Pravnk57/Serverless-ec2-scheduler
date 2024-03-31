@@ -117,10 +117,19 @@ Now again , go to the Lambda console and then test the code.But before testing t
 
 9. Now, we have successfully created two schedules: one to start the instance every day at 7:00 AM and the other to stop the instance every day at 5:00 PM.
 
-10. 
+9. Now, we have successfully created two schedules: one to start the instance every day at 8:00 AM and the other to stop the instance every day at 5:00 PM.
 
+![image (69)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/01d09200-1af4-47e9-80a6-f9e7b4263de7)
 
+### Step 6 :
+### Creating the SNS for Notification :
 
+1. Navigate to the Amazon SNS Console.
+2. Follow the Outlined Steps below.
+ 
+![image (70)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a5112dd5-e498-4df9-9524-6141e4eb3997)
+
+![image (72)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/cee57ece-dbaf-4ecd-8fed-4632c1cf0386)
 
 
 
