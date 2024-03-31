@@ -83,7 +83,7 @@ Now again , go to the Lambda console and then test the code.But before testing t
 
 ![image (58)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a8550035-df5b-4347-b5d7-a59dd8332ac9)
 
-![image (59)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/a7974935-2ce9-4466-b8fe-4c223c3c3ab0)
+![image (73)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/0c943c89-ab41-4574-a54f-9bb8350509d7)
 
 ![image (60)](https://github.com/Pravnk57/Serverless-ec2-scheduler/assets/117705143/c0c48bf7-6249-48cd-a14b-4290d7065e34)
 
